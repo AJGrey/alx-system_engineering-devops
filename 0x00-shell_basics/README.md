@@ -1,2 +1,1 @@
-#!/bin/bash
-A command to print the absolute path name of the current working directory
+Moving /tmp/betty to /tmp/my_first_directory
