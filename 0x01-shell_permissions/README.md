@@ -1,1 +1,1 @@
- A script that sets the mode of the file hello
+A script to set mirror permissions
