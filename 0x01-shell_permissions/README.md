@@ -1,1 +1,1 @@
-A scrit that changes the owner from vincent to staff
+A script to change owner and group owner from _hello to vincent and staff
