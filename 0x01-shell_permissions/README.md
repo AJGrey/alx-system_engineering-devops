@@ -1,1 +1,1 @@
-A script to change owner to betty only if owned by guillaume
+ A script to play StarWars IV in the terminal
