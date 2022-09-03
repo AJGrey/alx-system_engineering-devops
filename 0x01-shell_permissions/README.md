@@ -1,1 +1,1 @@
-A script to create my_dir with 751
+A scrit that changes the owner from vincent to staff
