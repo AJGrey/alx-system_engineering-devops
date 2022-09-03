@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet towel.blinkenlights.nl
+ln -s /bin/ls __ls__

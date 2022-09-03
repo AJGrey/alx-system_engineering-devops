@@ -1,1 +1,1 @@
- A script to play StarWars IV in the terminal
+A script to play StarWars IV episode in the terminal
