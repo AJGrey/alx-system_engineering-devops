@@ -1,1 +1,1 @@
-A script to change owner and group owner from _hello to vincent and staff
+A script to change owner to betty only if owned by guillaume
