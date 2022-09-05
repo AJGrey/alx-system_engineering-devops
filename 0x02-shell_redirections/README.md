@@ -1,8 +1,9 @@
+12 - A script that displays the 10 newest files in the current directory
 16 - A script that displays the number of lines containing the pattern "bin"
-A script that displays lines containing the pattern root and 3 lines
+17 - A script that displays lines containing the pattern root and 3 lines
 17 - A script that displays all lines in the file that do not contain the pattern "bin"
-A script to display all lines of the file starting with a letter
-A script to replace all xters A and C from input Z and E respectively
- 20 - A script that removes all letters c and C from input
+18 - A script to display all lines of the file starting with a letter
+19 - A script to replace all xters A and C from input Z and E respectively
+20 - A script that removes all letters c and C from input
 21 - A script that reverses its input
- 22 - A script that displays all users and thier home directories, sorted by users
+22 - A script that displays all users and thier home directories, sorted by users
