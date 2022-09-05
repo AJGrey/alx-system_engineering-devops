@@ -11,3 +11,4 @@ A script that overwrites if exists but creates if not
 A script that duplicates the last line of the file iacta
 A script to delete all javascript files
 A script that count the number of directories and sub-directories
+ 12 - A script to display the 10 newest files
