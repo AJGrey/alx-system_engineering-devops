@@ -1,3 +1,4 @@
+11 - A script that count directories 
 12 - A script that displays the 10 newest files in the current directory
 16 - A script that displays the number of lines containing the pattern "bin"
 17 - A script that displays lines containing the pattern root and 3 lines
