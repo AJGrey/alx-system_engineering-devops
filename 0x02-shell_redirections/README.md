@@ -13,3 +13,4 @@ A script to delete all javascript files
 A script that count the number of directories and sub-directories
 12 - A script to display the 10 newest files
 13 - A script that prints only the words that appear exactly once
+A script t display lines containing patterns
