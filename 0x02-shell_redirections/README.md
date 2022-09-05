@@ -8,3 +8,4 @@
 20 - A script that removes all letters c and C from input
 21 - A script that reverses its input
 22 - A script that displays all users and thier home directories, sorted by users
+A script to write a commadn that finds all empty files and directories
