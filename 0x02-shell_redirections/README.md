@@ -8,3 +8,4 @@ Write a script that displays the third line of iacta
 A script that creates a file named Best School
 A script that overwrites if exists but creates if it doesn't
 A script that overwrites if exists but creates if not
+A script that duplicates the last line of the file iacta
