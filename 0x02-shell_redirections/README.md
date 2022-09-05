@@ -9,3 +9,4 @@ A script that creates a file named Best School
 A script that overwrites if exists but creates if it doesn't
 A script that overwrites if exists but creates if not
 A script that duplicates the last line of the file iacta
+A script to delete all javascript files
