@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git add .
+git commit -m 'My shell variables expansions project'
+git push
