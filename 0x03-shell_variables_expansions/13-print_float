@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%d.2\n"$NUM
+printf "%f.2\n"$NUM
