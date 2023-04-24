@@ -23,5 +23,5 @@ if __name__ == "__main__":
             tasks.append(task_dict)
 
     json_data = {user_id: tasks}
-    with open(f"{user_id}.json", "w") as json_file:
+    with open("USER_ID.json", "w") as json_file:
         json.dump(json_data, json_file, indent=4)
